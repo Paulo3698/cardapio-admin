@@ -1,0 +1,1 @@
+// Clickable logo logic
